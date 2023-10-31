@@ -27,7 +27,7 @@ public class loginServlet extends HttpServlet {
 		//String driverClass = context.getInitParameter("org.mariadb.jdbc.Driver");
 		System.out.println(driverClass);
 		
-		String db = "jdbc:mariadb://mariadb.vamk.fi/e2102961_java_server";
+		String db = "jdbc:mariadb://location to /your database";
 		
 		String dbUser = context.getInitParameter("db_User");
 		String dbPassword = context.getInitParameter("db_Password");
