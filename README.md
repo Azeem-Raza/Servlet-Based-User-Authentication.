@@ -1,6 +1,6 @@
 # Servlet-Based User Authentication with MariaDB
 
-This Java web project demonstrates a simple yet effective user authentication system using servlets and a MariaDB database. The project includes components for a login page, login servlet, and a home servlet.
+This Java web project demonstrates a simple yet effective user authentication system using servlets and a MariaDB database. The project includes components for a login servlet, and a home servlet.
 
 ## Features
 
