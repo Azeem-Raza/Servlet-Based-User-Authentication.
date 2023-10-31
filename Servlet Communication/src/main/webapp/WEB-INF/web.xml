@@ -6,11 +6,11 @@
   </context-param>
   <context-param>
     <param-name>db_User</param-name>
-    <param-value>e2102961</param-value>
+    <param-value>database_id</param-value>
   </context-param>
   <context-param>
     <param-name>db_Password</param-name>
-    <param-value>3a4z3mrmv4Y</param-value>
+    <param-value>database_pass</param-value>
   </context-param>
   
 </web-app>
